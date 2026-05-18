@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Navya Sree 
 
-<!--
-**KATARAMNAVYASREE/KATARAMNAVYASREE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer passionate about:
+- Machine Learning
+- Generative AI
+- Open Source
+- Full Stack AI Applications
 
-Here are some ideas to get you started:
+## Open Source Contributions
+- Contributed to PocketPaw AI Agent platform
+  - Improved Windows frontend setup instructions
+  - Added Bun package manager guidance
+  - Opened Pull Request #1128
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • Java • Machine Learning • Deep Learning • Streamlit • SQL • Git • GitHub
+
+## Projects
+- AQI Prediction System
+- AI Job Market Dashboard
+- MEDLY Healthcare AI Platform
+
+## Currently Learning
+- LLMs
+- AI Agents
+- Full Stack AI Development
