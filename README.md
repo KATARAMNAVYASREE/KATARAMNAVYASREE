@@ -1,7 +1,9 @@
 # Hi, I'm Navya Sree 👋 
 
 AI/ML Engineer passionate about:
+- Artificial Intelligence 
 - Machine Learning
+- Agentic AI
 - Generative AI
 - Open Source
 - Full Stack AI Applications
